@@ -24,7 +24,7 @@
 }
 
 .logomark-soon {
-  width: 30%;
+  width: 15%;
 }
 
 .wrap-logomark {
@@ -42,7 +42,7 @@
 
 @media screen and (max-width: 767px) {
   .logomark-soon {
-    width: 25%;
+    width: 60px;
   }
 }
 
