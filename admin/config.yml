@@ -677,10 +677,6 @@ collections:
             label: Text
             name: '-64104400'
             widget: string
-          - hint: 'Original text: quatreaplus, key: -211ab20f'
-            label: Text
-            name: '-211ab20f'
-            widget: string
           - hint: 'Original text: No items found., key: 3d503d2b'
             label: Text
             name: 3d503d2b
