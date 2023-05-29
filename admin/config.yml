@@ -759,6 +759,142 @@ collections:
             label: Text
             name: 30b4c443
             widget: string
+          - hint: 'Original text: En cliquant sur , key: -5767796a'
+            label: Text
+            name: '-5767796a'
+            widget: string
+          - hint: 'Original text: "Accepter", key: 6af87d0b'
+            label: Text
+            name: 6af87d0b
+            widget: string
+          - hint: >-
+              Original text: , vous acceptez que tous les cookies soient stockés
+              sur votre appareil afin d'améliorer la navigation sur le site,
+              d'analyser l'utilisation du site et de nous aider dans nos efforts
+              de marketing. Consultez notre politique de confidentialité , key:
+              3d1d91cb
+            label: Text
+            name: 3d1d91cb
+            widget: text
+          - hint: 'Original text: ici, key: 1968f'
+            label: Text
+            name: 1968f
+            widget: string
+          - hint: 'Original text:  pour plus d''informations., key: 1442d302'
+            label: Text
+            name: 1442d302
+            widget: string
+          - hint: 'Original text: Préférences, key: -6bfbaf20'
+            label: Text
+            name: '-6bfbaf20'
+            widget: string
+          - hint: 'Original text: Refuser, key: -5c134542'
+            label: Text
+            name: '-5c134542'
+            widget: string
+          - hint: 'Original text: Accepter, key: -7c16fc2b'
+            label: Text
+            name: '-7c16fc2b'
+            widget: string
+          - hint: >-
+              Original text: Centre de préférences pour la politique de
+              protection de la vie privée, key: 2dc7a23e
+            label: Text
+            name: 2dc7a23e
+            widget: string
+          - hint: >-
+              Original text: Lorsque vous visitez des sites web, ceux-ci peuvent
+              stocker ou récupérer des données dans votre navigateur. Ce
+              stockage est souvent nécessaire pour la fonctionnalité de base du
+              site web. Il peut être utilisé à des fins de marketing, d'analyse
+              et de personnalisation du site, par exemple pour enregistrer vos
+              préférences. La protection de la vie privée est importante pour
+              nous, c'est pourquoi vous avez la possibilité de désactiver
+              certains types de stockage qui ne sont pas nécessaires au
+              fonctionnement de base du site web. Le blocage de certaines
+              catégories peut avoir un impact sur votre expérience du site web.,
+              key: 5719b980
+            label: Text
+            name: 5719b980
+            widget: text
+          - hint: 'Original text: Rejeter tous les cookies, key: -1bb35ed1'
+            label: Text
+            name: '-1bb35ed1'
+            widget: string
+          - hint: 'Original text: Accepter tous les cookies, key: -79c29fd3'
+            label: Text
+            name: '-79c29fd3'
+            widget: string
+          - hint: >-
+              Original text: Gérer les préférences en matière de consentement
+              par catégorie, key: 351868e0
+            label: Text
+            name: '351868e0'
+            widget: string
+          - hint: 'Original text: Essentiel, key: 16a393aa'
+            label: Text
+            name: 16a393aa
+            widget: string
+          - hint: 'Original text: Toujours actif, key: -5c954f1a'
+            label: Text
+            name: '-5c954f1a'
+            widget: string
+          - hint: >-
+              Original text: Ces éléments sont nécessaires pour permettre le
+              fonctionnement de base du site web., key: -7b9165df
+            label: Text
+            name: '-7b9165df'
+            widget: string
+          - hint: 'Original text: Marketing, key: 3fc9ea06'
+            label: Text
+            name: 3fc9ea06
+            widget: string
+          - hint: 'Original text: Essential, key: 16a3932e'
+            label: Text
+            name: 16a3932e
+            widget: string
+          - hint: >-
+              Original text: Ces éléments sont utilisés pour diffuser des
+              publicités plus pertinentes pour vous et vos centres d'intérêt.
+              Ils peuvent également être utilisés pour limiter le nombre de fois
+              que vous voyez une publicité et mesurer l'efficacité des campagnes
+              publicitaires. Les réseaux publicitaires les placent généralement
+              avec l'autorisation de l'exploitant du site web., key: -7979fb1e
+            label: Text
+            name: '-7979fb1e'
+            widget: text
+          - hint: 'Original text: Personnalisation, key: 6fc5ea07'
+            label: Text
+            name: 6fc5ea07
+            widget: string
+          - hint: >-
+              Original text: Ces éléments permettent au site web de se souvenir
+              des choix que vous faites (tels que votre nom d'utilisateur, votre
+              langue ou la région dans laquelle vous vous trouvez) et de fournir
+              des fonctions améliorées et plus personnelles. Par exemple, un
+              site web peut vous fournir des bulletins météorologiques locaux ou
+              des informations sur la circulation en stockant des données sur
+              votre position actuelle., key: -1d143c52
+            label: Text
+            name: '-1d143c52'
+            widget: text
+          - hint: 'Original text: Analyse, key: 2fb3f453'
+            label: Text
+            name: 2fb3f453
+            widget: string
+          - hint: >-
+              Original text: Ces éléments aident l'opérateur du site web à
+              comprendre comment son site fonctionne, comment les visiteurs
+              interagissent avec le site et s'il y a des problèmes techniques.
+              Ce type de stockage ne recueille généralement pas d'informations
+              permettant d'identifier un visiteur., key: -46635a4
+            label: Text
+            name: '-46635a4'
+            widget: text
+          - hint: 'Original text: Confirmer mes préférences et fermer, key: -c5b78c0'
+            label: Text
+            name: '-c5b78c0'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -798,6 +934,10 @@ collections:
           - hint: 'Original link: /imprint, key: -7ada8706'
             label: Link
             name: '-7ada8706'
+            widget: string
+          - hint: 'Original link: /politique-de-confidentialite, key: -196dfc8e'
+            label: Link
+            name: '-196dfc8e'
             widget: string
       - label: Images
         name: images
