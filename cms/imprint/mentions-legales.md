@@ -1,21 +1,21 @@
 ---
-title: Mentions Légales
+created-on: 2021-03-31T13:54:15.555Z
+layout: "[imprint].html"
 slug: mentions-legales
-updated-on: '2021-10-17T19:17:12.143Z'
-created-on: '2021-03-31T13:54:15.555Z'
-published-on: '2021-10-17T19:17:26.685Z'
-layout: '[imprint].html'
+title: Mentions Légales
+updated-on: 2021-10-17T19:17:12.143Z
+published-on: 2021-10-17T19:17:26.685Z
 tags: imprint
+date: 2023-06-09T09:06:09.640Z
 ---
-
 ### quatreaplus.ch
 
-atelier d'architecture alpine actuelle Sàrl  
+atelier d'architecture alpine actuelle Sàrl\
 CHE-317.112.548  
-  
-Vielle Route 11  
-Case postale 71  
-3966 Chalais  
+
+Vielle Route 11\
+Case postale 71\
+3966 Chalais\
 SUISSE
 
 ‍
