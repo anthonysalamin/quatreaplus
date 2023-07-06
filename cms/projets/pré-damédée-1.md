@@ -3,6 +3,8 @@ title: Pré-d'Amédée
 created-on: 2023-07-06T10:16:50.675Z
 updated-on: 2023-07-06T10:16:50.701Z
 published-on: 2023-07-06T10:16:50.724Z
+f_thumbnail:
+  url: /assets/images/007a2962-min.jpg
 f_images:
   - url: /assets/images/optimized-007a2946.jpg
   - url: /assets/images/optimized-007a2938.jpg
@@ -16,6 +18,7 @@ f_images:
   - url: /assets/images/041.41.702-étage_page-0001.jpg
   - url: /assets/images/041.41.701-combles_page-0001.jpg
 f_highlight: true
+f_faetured: true
 f_order: 6
 f_description-rich-text: >-
   Cette résidence, construite en 1910, est idéalement située en plein cœur de
@@ -36,12 +39,15 @@ f_location: Sion, Valais
 f_date: "2022"
 f_client: –
 f_project-number: "041"
+f_related-project:
+  - cms/projets/les-combes.md
+  - cms/projets/nax.md
 f_image-1:
   url: /assets/images/optimized-007a2946.jpg
 f_image-2:
   url: /assets/images/optimized-007a2984.jpg
 f_image-3:
-  url: ""
+  url: /assets/images/007a2937-modifier.jpg
 f_image-4:
   url: ""
 f_image-5:
