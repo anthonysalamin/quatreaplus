@@ -13,9 +13,8 @@ date: 2023-06-09T09:06:09.640Z
 atelier d'architecture alpine actuelle Sàrl\
 CHE-317.112.548  
 
-Vielle Route 11\
-Case postale 71\
-3966 Chalais\
+place du Midi 50\
+1﻿950 Sion\
 SUISSE
 
 ‍
