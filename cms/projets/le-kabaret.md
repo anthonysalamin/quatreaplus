@@ -33,7 +33,7 @@ f_images:
     alt: kabaret
   - url: https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/6169580440840ab5542d1d32_DJI_0243-optimized.jpg
     alt: kabaret
-f_highlight: true
+f_highlight: false
 f_faetured: true
 f_order: 2
 f_description-rich-text: La vénérable salle de théâtre du village de Chalais
