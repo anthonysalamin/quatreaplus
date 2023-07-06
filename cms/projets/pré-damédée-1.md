@@ -39,12 +39,15 @@ f_location: Sion, Valais
 f_date: "2022"
 f_client: –
 f_project-number: "041"
+f_related-project:
+  - cms/projets/les-combes.md
+  - cms/projets/nax.md
 f_image-1:
   url: /assets/images/optimized-007a2946.jpg
 f_image-2:
   url: /assets/images/optimized-007a2984.jpg
 f_image-3:
-  url: ""
+  url: /assets/images/007a2937-modifier.jpg
 f_image-4:
   url: ""
 f_image-5:
