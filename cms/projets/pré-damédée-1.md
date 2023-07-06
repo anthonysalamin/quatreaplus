@@ -3,6 +3,17 @@ title: Pré-d'Amédée
 created-on: 2023-07-06T10:16:50.675Z
 updated-on: 2023-07-06T10:16:50.701Z
 published-on: 2023-07-06T10:16:50.724Z
+f_images:
+  - url: /assets/images/optimized-007a2946.jpg
+  - url: /assets/images/optimized-007a2938.jpg
+  - url: /assets/images/optimized-007a2949.jpg
+  - url: /assets/images/optimized-007a2969.jpg
+  - url: /assets/images/optimized-007a2967.jpg
+  - url: /assets/images/optimized-007a2984.jpg
+  - {}
+  - url: ""
+  - url: /assets/images/041.41.703-rez_page-0001.jpg
+  - url: /assets/images/041.41.702-étage_page-0001.jpg
 f_highlight: true
 f_order: 6
 f_description-rich-text: >-
@@ -25,15 +36,15 @@ f_date: "2022"
 f_client: –
 f_project-number: "041"
 f_image-1:
-  url: /assets/images/optimized-007a2938.jpg
+  url: ""
 f_image-2:
-  url: /assets/images/optimized-007a2946.jpg
+  url: ""
 f_image-3:
-  url: /assets/images/optimized-007a2949.jpg
+  url: ""
 f_image-4:
-  url: /assets/images/optimized-007a2967.jpg
+  url: ""
 f_image-5:
-  url: /assets/images/optimized-007a2969.jpg
+  url: ""
 tags: projets
 layout: "[projets].html"
 date: 2023-07-06T10:16:50.754Z
