@@ -18,7 +18,7 @@ f_images:
   - url: /assets/images/041.41.702-étage_page-0001.jpg
   - url: /assets/images/041.41.701-combles_page-0001.jpg
 f_highlight: true
-f_faetured: true
+f_faetured: false
 f_order: 6
 f_description-rich-text: >-
   Cette résidence, construite en 1910, est idéalement située en plein cœur de
@@ -54,7 +54,7 @@ f_image-5:
   url: ""
 tags: projets
 layout: "[projets].html"
-date: 2023-07-06T10:16:50.754Z
+date: 2023-07-06T13:05:08.872Z
 seo:
   noindex: false
   twitter:title: summary
