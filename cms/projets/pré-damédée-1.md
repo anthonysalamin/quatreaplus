@@ -10,10 +10,11 @@ f_images:
   - url: /assets/images/optimized-007a2969.jpg
   - url: /assets/images/optimized-007a2967.jpg
   - url: /assets/images/optimized-007a2984.jpg
-  - {}
-  - url: ""
+  - url: /assets/images/041.41.705-situation_page-0001.jpg
+  - url: /assets/images/041.41.704-sous-sol_page-0001.jpg
   - url: /assets/images/041.41.703-rez_page-0001.jpg
   - url: /assets/images/041.41.702-étage_page-0001.jpg
+  - url: /assets/images/041.41.701-combles_page-0001.jpg
 f_highlight: true
 f_order: 6
 f_description-rich-text: >-
@@ -36,9 +37,9 @@ f_date: "2022"
 f_client: –
 f_project-number: "041"
 f_image-1:
-  url: ""
+  url: /assets/images/optimized-007a2946.jpg
 f_image-2:
-  url: ""
+  url: /assets/images/optimized-007a2984.jpg
 f_image-3:
   url: ""
 f_image-4:
