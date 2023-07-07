@@ -60,4 +60,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Rénovation d’un chalet en centre ville pour une famille
+Rénovation d’un chalet en centre ville pour une famille.
