@@ -7,7 +7,7 @@ f_thumbnail:
   url: ""
 f_images:
   - url: /assets/images/045.41.702_page-0001.jpg
-  - url: ""
+  - url: /assets/images/placedumidi_plan.jpg
   - {}
   - {}
 f_description-rich-text: >-
