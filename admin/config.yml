@@ -4,6 +4,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -357,6 +358,7 @@ collections:
         label: highlight
         widget: boolean
         required: false
+        default: false
       - hint: >-
           Le projet fait-il partie des trois projets présentés sur la page
           d'accueil ?
@@ -364,6 +366,7 @@ collections:
         label: featured (max 3 projects)
         widget: boolean
         required: false
+        default: false
       - hint: Ordre d'apparence du projet.
         name: f_order
         label: order

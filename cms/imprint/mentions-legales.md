@@ -1,20 +1,21 @@
 ---
-created-on: 2021-03-31T13:54:15.555Z
-layout: "[imprint].html"
-slug: mentions-legales
 title: Mentions Légales
-updated-on: 2021-10-17T19:17:12.143Z
-published-on: 2021-10-17T19:17:26.685Z
+slug: mentions-legales
+updated-on: '2023-07-07T10:41:53.528Z'
+created-on: '2021-03-31T13:54:15.555Z'
+published-on: '2021-10-17T19:17:26.685Z'
+layout: '[imprint].html'
 tags: imprint
-date: 2023-06-09T09:06:09.640Z
 ---
+
 ### quatreaplus.ch
 
-atelier d'architecture alpine actuelle Sàrl\
+atelier d'architecture alpine actuelle Sàrl  
 CHE-317.112.548  
-
-place du Midi 50\
-1﻿950 Sion\
+  
+Vielle Route 11  
+Case postale 71  
+3966 Chalais  
 SUISSE
 
 ‍
@@ -66,3 +67,5 @@ Les cookies sont des codes qu'un serveur enregistre sur votre disque dur pour mi
 ### **Général**
 
 Si vous avez des questions ou des commentaires sur nos informations légales ou sur la protection des données, veuillez nous contacter à l'adresse camil@quatreaplus.ch.
+
+### ‍

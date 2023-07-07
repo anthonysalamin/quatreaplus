@@ -31,9 +31,9 @@ f_thumbnail:
   url: >-
     https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/613b2964eb2ba089a14a46d5_nax-thumb.jpg
   alt: null
-updated-on: '2021-10-19T08:56:14.223Z'
+updated-on: '2023-07-07T10:26:30.348Z'
 created-on: '2021-03-28T17:47:21.620Z'
-published-on: '2021-10-19T08:56:20.031Z'
+published-on: '2023-07-07T10:27:43.044Z'
 f_description-rich-text: >-
   Transformation d'un mayen en pied-à-terre permettant d'y séjourner quelques
   jours en toute saison seul comme en famille. La transformation s'est
