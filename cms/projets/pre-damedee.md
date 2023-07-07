@@ -15,6 +15,8 @@ f_images:
     alt: null
   - url: https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/64a7e6a811a3d501576fb17b_predamedee-04.jpg
     alt: null
+  - url: /assets/images/prédamédée_escalier.jpg
+  - url: /assets/images/prédamédée_combles.jpg
   - url: /assets/images/prédamédée_situation.jpg
   - url: https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/64a7e6abdb6f0b019a9d2f62_predamedee-06.jpg
     alt: null
