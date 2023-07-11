@@ -75,6 +75,9 @@ layout: "[projets].html"
 slug: le-kabaret
 tags: projets
 date: 2023-07-11T10:57:26.201Z
+seo:
+  title: transformation d'un théâtre
+  description: transformation du théâtre Kabaret à Chalais | architecture | 4a+
 ---
 
 Transformation d'une salle de spectacle à l'entrée du village de Chalais. Le projet fut mené et construit par les bénévoles de la région.
