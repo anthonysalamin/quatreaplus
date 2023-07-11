@@ -6,12 +6,11 @@ published-on: 2023-07-07T08:35:01.053Z
 f_thumbnail:
   url: /assets/images/collage-maker-10-jul-2023-02-46-pm-1728.jpg
 f_images:
-  - url: /assets/images/045.41.702_page-0001.jpg
+  - url: /assets/images/placedumidi_situation.jpg
   - url: /assets/images/placedumidi_plan.jpg
   - url: /assets/images/collage-maker-10-jul-2023-02-44-pm-1698.jpg
   - url: /assets/images/collage-maker-10-jul-2023-02-47-pm-3452.jpg
   - url: /assets/images/collage-maker-10-jul-2023-02-49-pm-8156.jpg
-  - {}
 f_faetured: true
 f_order: 7
 f_description-rich-text: >-
