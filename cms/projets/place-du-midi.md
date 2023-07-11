@@ -29,6 +29,7 @@ f_description-rich-text: >-
   Un espace central avec cuisine ouverte et salle à manger jouxté d’un espace de jeux et repos ont été pensés offrant un cadre de travail agréable. Pour permettre une privacité au sein de cet espace ouvert, comme les réunions, quelques espaces fermés sont conçus.
 f_collaboration: Travelise | Spektrum
 f_location: Sion
+f_date: "2022"
 f_client: La Bergerie
 f_project-number: "045"
 tags: projets
