@@ -7,8 +7,8 @@ f_thumbnail:
   url: ""
 f_images:
   - url: /assets/images/placedumidi_plan.jpg
-  - {}
-  - {}
+  - url: theme/assets/images/placedumidi_1
+  - url: ""
   - {}
   - {}
 f_faetured: true
