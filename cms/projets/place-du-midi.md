@@ -8,9 +8,6 @@ f_thumbnail:
 f_images:
   - url: /assets/images/placedumidi_situation.jpg
   - url: /assets/images/placedumidi_plan.jpg
-  - url: /assets/images/collage-maker-10-jul-2023-02-44-pm-1698.jpg
-  - url: /assets/images/collage-maker-10-jul-2023-02-47-pm-3452.jpg
-  - url: /assets/images/collage-maker-10-jul-2023-02-49-pm-8156.jpg
 f_faetured: true
 f_order: 7
 f_description-rich-text: >-
