@@ -44,7 +44,7 @@ f_description-rich-text: >-
 f_collaboration: "-"
 f_location: Sion, Valais
 f_date: "2022"
-f_client: "-"
+f_client: Privé
 f_project-number: "041"
 f_related-project:
   - cms/projets/les-combes.md
