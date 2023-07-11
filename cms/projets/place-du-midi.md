@@ -32,6 +32,9 @@ f_location: Sion
 f_date: "2022"
 f_client: La Bergerie
 f_project-number: "045"
+f_related-project:
+  - cms/projets/les-combes.md
+  - cms/projets/pre-damedee.md
 tags: projets
 layout: "[projets].html"
 date: 2023-07-07T08:35:01.082Z
