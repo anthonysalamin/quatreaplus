@@ -6,7 +6,7 @@ published-on: 2023-07-07T08:35:01.053Z
 f_thumbnail:
   url: ""
 f_images:
-  - url: /assets/images/placedumidi_plan.jpg
+  - url: ""
   - url: theme/assets/images/placedumidi_1
   - url: ""
   - {}
