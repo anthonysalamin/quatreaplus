@@ -5,8 +5,7 @@ updated-on: 2023-07-07T08:35:01.019Z
 published-on: 2023-07-07T08:35:01.053Z
 f_thumbnail:
   url: ""
-f_images:
-  - url: theme/assets/images/placedumidi_1
+f_images: []
 f_faetured: false
 f_order: 7
 f_description-rich-text: >-
