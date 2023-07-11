@@ -4,10 +4,13 @@ created-on: 2023-07-07T08:35:00.963Z
 updated-on: 2023-07-07T08:35:01.019Z
 published-on: 2023-07-07T08:35:01.053Z
 f_thumbnail:
-  url: /assets/images/collage-maker-10-jul-2023-02-46-pm-1728.jpg
+  url: ""
 f_images:
-  - url: /assets/images/placedumidi_situation.jpg
   - url: /assets/images/placedumidi_plan.jpg
+  - {}
+  - {}
+  - {}
+  - {}
 f_faetured: true
 f_order: 7
 f_description-rich-text: >-
