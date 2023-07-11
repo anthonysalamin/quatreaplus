@@ -6,12 +6,8 @@ published-on: 2023-07-07T08:35:01.053Z
 f_thumbnail:
   url: ""
 f_images:
-  - url: ""
   - url: theme/assets/images/placedumidi_1
-  - url: ""
-  - {}
-  - {}
-f_faetured: true
+f_faetured: false
 f_order: 7
 f_description-rich-text: >-
   Les bureaux ont été conçus dans l’optique de créer un espace de travail
