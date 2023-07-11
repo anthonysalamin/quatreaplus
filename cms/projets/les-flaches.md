@@ -3,6 +3,8 @@ title: Les Flaches
 created-on: 2023-07-07T13:13:53.704Z
 updated-on: 2023-07-07T13:13:53.734Z
 published-on: 2023-07-07T13:13:53.756Z
+f_thumbnail:
+  url: /assets/images/flaches_1
 f_images:
   - url: /assets/images/flaches_situation.jpg
   - url: /assets/images/flache_rez.jpg
@@ -12,6 +14,7 @@ f_images:
   - {}
 f_highlight: false
 f_faetured: true
+f_order: 6
 f_description-rich-text: >-
   Afin de palier à la forme étroite et allongée de la parcelle, située au milieu
   du village de Réchy, une construction triangulaire sur deux niveaux a été
@@ -23,7 +26,7 @@ f_description-rich-text: >-
 f_collaboration: Olivier Albasini
 f_location: Réchy
 f_date: "2023"
-f_client: –
+f_client: Privé
 f_project-number: "042"
 f_related-project:
   - cms/projets/rechy.md
@@ -34,5 +37,7 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  title: construction à Réchy
+  description: construction d'une villa en brique à Réchy
 ---
 c﻿construction d'une villa archaïque dans un village
