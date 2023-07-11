@@ -14,7 +14,7 @@ f_images:
   - {}
 f_highlight: false
 f_faetured: true
-f_order: 6
+f_order: 5
 f_description-rich-text: >-
   Afin de palier à la forme étroite et allongée de la parcelle, située au milieu
   du village de Réchy, une construction triangulaire sur deux niveaux a été
