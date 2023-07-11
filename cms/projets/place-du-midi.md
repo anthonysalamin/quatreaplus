@@ -13,6 +13,7 @@ f_images:
   - url: /assets/images/collage-maker-10-jul-2023-02-49-pm-8156.jpg
   - {}
 f_faetured: true
+f_order: 7
 f_description-rich-text: >-
   Les bureaux ont été conçus dans l’optique de créer un espace de travail
   ouvert, un «open space», qui permet aux entreprises et aux startups de pouvoir
@@ -28,6 +29,7 @@ f_description-rich-text: >-
   Un espace central avec cuisine ouverte et salle à manger jouxté d’un espace de jeux et repos ont été pensés offrant un cadre de travail agréable. Pour permettre une privacité au sein de cet espace ouvert, comme les réunions, quelques espaces fermés sont conçus.
 f_collaboration: Travelise | Spektrum
 f_location: Sion
+f_date: "2022"
 f_client: La Bergerie
 f_project-number: "045"
 tags: projets
