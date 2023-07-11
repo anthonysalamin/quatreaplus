@@ -13,6 +13,7 @@ f_images:
   - url: /assets/images/collage-maker-10-jul-2023-02-49-pm-8156.jpg
   - {}
 f_faetured: true
+f_order: 6
 f_description-rich-text: >-
   Les bureaux ont été conçus dans l’optique de créer un espace de travail
   ouvert, un «open space», qui permet aux entreprises et aux startups de pouvoir
