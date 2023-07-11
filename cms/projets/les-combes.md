@@ -4,7 +4,7 @@ created-on: 2021-03-28T19:38:51.736Z
 updated-on: 2021-10-19T08:55:25.980Z
 published-on: 2021-10-19T08:56:20.031Z
 f_thumbnail:
-  url: /assets/images/lescombes_façade_4.jpg
+  url: /assets/images/collage-maker-10-jul-2023-02-24-pm-4655.jpg
   alt: null
 f_images:
   - url: https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695aa75ff830247c6fc6e2_17-Les-Combes_situationsplan-optimized.jpg
@@ -27,10 +27,11 @@ f_images:
   - url: /assets/images/lescombes_façade_2.jpg
   - url: /assets/images/lescombes_intérieur_2.jpg
   - url: /assets/images/lescombes_intérieur_3.jpg
-  - url: /assets/images/lescombes_intérieur_1.jpg
+  - url: /assets/images/collage-maker-10-jul-2023-02-14-pm-6004.jpg
   - url: /assets/images/lescombes_intérieur_4.jpg
+  - url: /assets/images/lescombes_façade_4.jpg
 f_highlight: false
-f_faetured: false
+f_faetured: true
 f_order: 4
 f_description-rich-text: >-
   L'état des madriers de la grange - et surtout les interstices entre ceux-ci -
