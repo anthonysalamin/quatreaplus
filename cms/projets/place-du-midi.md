@@ -7,7 +7,6 @@ f_thumbnail:
   url: placedumidi_2
 f_images:
   - url: /assets/images/placedumidi_1
-  - url: /assets/images/placedumidi_situation.jpg
   - url: /assets/images/placedumidi_plan.jpg
 f_highlight: false
 f_faetured: false
