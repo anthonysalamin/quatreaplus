@@ -10,7 +10,7 @@ f_images:
   - url: /assets/images/placedumidi_plan.jpg
 f_highlight: false
 f_faetured: false
-f_order: 7
+f_order: 8
 f_description-rich-text: >-
   Les bureaux ont été conçus dans l’optique de créer un espace de travail
   ouvert, un «open space», qui permet aux entreprises et aux startups de pouvoir
