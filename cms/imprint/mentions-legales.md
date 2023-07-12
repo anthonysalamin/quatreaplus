@@ -3,7 +3,7 @@ title: Mentions Légales
 slug: mentions-legales
 updated-on: '2023-07-07T10:41:53.528Z'
 created-on: '2021-03-31T13:54:15.555Z'
-published-on: '2021-10-17T19:17:26.685Z'
+published-on: '2023-07-12T11:08:27.548Z'
 layout: '[imprint].html'
 tags: imprint
 ---

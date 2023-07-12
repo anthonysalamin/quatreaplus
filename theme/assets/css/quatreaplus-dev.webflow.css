@@ -801,6 +801,11 @@
   position: relative;
 }
 
+.wrap-infos-project {
+  flex-direction: row;
+  display: flex;
+}
+
 @media screen and (max-width: 991px) {
   .section-heading {
     margin-left: 10%;
@@ -869,6 +874,10 @@
   .fs-cc-banner_container {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .wrap-infos-project {
+    flex-direction: column;
   }
 }
 
