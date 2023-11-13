@@ -981,7 +981,7 @@ function handleMileStoneOpacity() {
         trigger: trigger,
         start: `top+=${topOffset}px center`,
         end: "center center",
-        markers: true, // debug
+        markers: false, // debug
         onEnter: () => {
           gsap.to(timelineLeft, {
             opacity: 1,
