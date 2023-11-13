@@ -536,8 +536,8 @@ margin: 0rem !important;
                     <div class="margin-bottom-xlarge">
                       <p class="text-colour-lightgrey">{{ texts.-4785ab40 }}<br></p>
                     </div>
-                    <div class="timeline_image-wrapper margin-bottom-medium"><img src="{{ images.529e816.url }}" loading="lazy" width="480" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" alt="{{ images.529e816.alt | trim | escape }}"></div>
-                    <div class="timeline_quote-wrapper"><img src="{{ images.-532d197c.url }}" loading="lazy" alt="{{ images.-532d197c.alt | trim | escape }}" class="timeline_quote-image">
+                    <div class="timeline_image-wrapper margin-bottom-medium"><img src="{{ images.529e816.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.529e816.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
+                    <div class="timeline_quote-wrapper"><img src="{{ images.-532d197c.url }}" loading="eager" alt="{{ images.-532d197c.alt | trim | escape }}" class="timeline_quote-image">
                       <div class="timeline_quote-text-wrapper">
                         <p class="timeline_quote">{{ texts.113a142b }}<br></p>
                         <p class="timeline_quote-title">{{ texts.4ffa9028 }}<br></p>
@@ -585,7 +585,7 @@ margin: 0rem !important;
                         </a>
                       </div>
                     </div>
-                    <div class="timeline_image-wrapper margin-bottom-medium"><img src="{{ images.214e25e4.url }}" loading="lazy" width="480" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" alt="{{ images.214e25e4.alt | trim | escape }}"></div>
+                    <div class="timeline_image-wrapper margin-bottom-medium"><img src="{{ images.214e25e4.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.214e25e4.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
                   </div>
                 </div>
                 <div class="timeline__item">
@@ -601,7 +601,7 @@ margin: 0rem !important;
                         <div>{{ texts.1774fd }}</div>
                       </div>
                       <div class="timeline_text">{{ texts.4eb96006 }}<br></div>
-                      <div class="timeline_image-wrapper margin-bottom-medium margin-top"><img src="{{ images.21400e63.url }}" loading="lazy" width="480" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" alt="{{ images.21400e63.alt | trim | escape }}"></div>
+                      <div class="timeline_image-wrapper margin-bottom-medium margin-top"><img src="{{ images.21400e63.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.21400e63.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
                     </div>
                   </div>
                 </div>
@@ -940,11 +940,11 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 function handleMileStoneOpacity() {
   console.log("handleMileStoneOpacity");
-  const duration = 1; // 1 second
-  const delay = 0.35;
+  const duration = .65
+  const delay = 0.15
   const startOpacityLeft = 0.25;
   const startOpacityRight = 0.15;
-  const topOffset = 145; // 2x padding top (?) - height of white dot
+  const topOffset = 40; 
   const colors = {
     light: {
       full: "red",
@@ -980,9 +980,9 @@ function handleMileStoneOpacity() {
     const timeline = gsap.timeline({
       scrollTrigger: {
         trigger: trigger,
-        start: `top+=${topOffset}px center`,
+        start: `top+=${topOffset}px center`, // `top+=${topOffset}px center`
         end: "center center",
-        markers: false, // debug
+        markers: true, // debug
         onEnter: () => {
           gsap.to(timelineLeft, {
             opacity: 1,
