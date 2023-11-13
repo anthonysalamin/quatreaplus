@@ -428,6 +428,10 @@ figcaption {
   color: var(--black);
 }
 
+.navbar_link.hide-desktop {
+  display: none;
+}
+
 .header_component {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
@@ -2199,6 +2203,10 @@ figcaption {
   .navbar_link {
     width: auto;
     padding: .75rem 0;
+  }
+
+  .navbar_link.hide-desktop {
+    display: block;
   }
 
   .header_component {

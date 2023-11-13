@@ -702,6 +702,10 @@ collections:
             label: Text
             name: '-64104400'
             widget: string
+          - hint: 'Original text: Mentions légales, key: -68d80214'
+            label: Text
+            name: '-68d80214'
+            widget: string
           - hint: 'Original text: 4a+, key: cf1e'
             label: Text
             name: cf1e
@@ -1007,10 +1011,6 @@ collections:
             label: Text
             name: 7d6b62b9
             widget: string
-          - hint: 'Original text: Mention légal, key: 44a52ddf'
-            label: Text
-            name: 44a52ddf
-            widget: string
           - hint: 'Original text: © , key: 1497'
             label: Text
             name: '1497'
@@ -1111,9 +1111,9 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: /mention-legal/, key: -4c90d838'
+          - hint: 'Original link: /mentions-legales/, key: -4560e6e3'
             label: Link
-            name: '-4c90d838'
+            name: '-4560e6e3'
             widget: string
           - hint: 'Original link: #, key: 23'
             label: Link
@@ -1127,9 +1127,13 @@ collections:
             label: Link
             name: '-2f646e9'
             widget: string
-          - hint: 'Original link: #demarche, key: 77b28b66'
+          - hint: 'Original link: https://quatreaplus.ch/#demarche, key: 2c4e9ce8'
             label: Link
-            name: 77b28b66
+            name: 2c4e9ce8
+            widget: string
+          - hint: 'Original link: #footer, key: -10273082'
+            label: Link
+            name: '-10273082'
             widget: string
           - hint: >-
               Original link: mailto:info@quatreaplus.ch?subject=Contact, key:
@@ -1142,10 +1146,6 @@ collections:
               29d126be
             label: Link
             name: 29d126be
-            widget: string
-          - hint: 'Original link: #footer, key: -10273082'
-            label: Link
-            name: '-10273082'
             widget: string
           - hint: >-
               Original link: https://www.instagram.com/quatreaplus/, key:

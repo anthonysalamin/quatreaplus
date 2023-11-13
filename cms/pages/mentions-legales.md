@@ -1,16 +1,16 @@
 ---
-title: Mention legal
+title: Mentions légales
 permalink: '{{ page.fileSlug }}/index.html'
-layout: mention-legal.html
-slug: mention-legal
+layout: mentions-legales.html
+slug: mentions-legales
 tags: pages
 seo:
   noindex: false
-  title: quatreaplus | atelier d’architecture alpine actuelle | Mention légal
+  title: quatreaplus | atelier d’architecture alpine actuelle | Mentions légales
   description: >-
     Atelier d'architecture alpine actuelle — 4a+, est un bureau d'architecture
     sédunois dévoué à la création d'espaces alpins contemporains uniques.
-  og:title: quatreaplus | atelier d’architecture alpine actuelle | Mention légal
+  og:title: quatreaplus | atelier d’architecture alpine actuelle | Mentions légales
   additional_tags: >-
     <meta content="Atelier d'architecture alpine actuelle — 4a+, est un bureau
     d'architecture sédunois dévoué à la création d'espaces alpins contemporains
@@ -18,7 +18,7 @@ seo:
     alpine actuelle — 4a+, est un bureau d'architecture sédunois dévoué à la
     création d'espaces alpins contemporains uniques."
     property="twitter:description"><meta property="og:type" content="website">
-  twitter:title: quatreaplus | atelier d’architecture alpine actuelle | Mention légal
+  twitter:title: quatreaplus | atelier d’architecture alpine actuelle | Mentions légales
 ---
 
 
