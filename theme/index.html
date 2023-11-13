@@ -556,9 +556,7 @@ margin: 0rem !important;
                     <div class="margin-bottom-medium">
                       <div class="timeline_text">{{ texts.4f044a15 }}<br></div>
                     </div>
-                    <div class="margin-bottom-xlarge">
-                      <p class="text-colour-lightgrey">{{ texts.26672428 }}<br></p>
-                    </div>
+                    <p class="text-colour-lightgrey">{{ texts.26672428 }}<br></p>
                   </div>
                 </div>
                 <div class="timeline__item">
@@ -585,7 +583,7 @@ margin: 0rem !important;
                         </a>
                       </div>
                     </div>
-                    <div class="timeline_image-wrapper margin-bottom-medium"><img src="{{ images.214e25e4.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.214e25e4.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
+                    <div class="timeline_image-wrapper"><img src="{{ images.214e25e4.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.214e25e4.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
                   </div>
                 </div>
                 <div class="timeline__item">
@@ -596,13 +594,11 @@ margin: 0rem !important;
                     <div class="timeline__circle dark"></div>
                   </div>
                   <div class="timeline__right">
-                    <div class="margin-bottom-medium">
-                      <div class="timeline_milestone-badge">
-                        <div>{{ texts.1774fd }}</div>
-                      </div>
-                      <div class="timeline_text">{{ texts.4eb96006 }}<br></div>
-                      <div class="timeline_image-wrapper margin-bottom-medium margin-top"><img src="{{ images.21400e63.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.21400e63.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
+                    <div class="timeline_milestone-badge">
+                      <div>{{ texts.1774fd }}</div>
                     </div>
+                    <div class="timeline_text">{{ texts.4eb96006 }}<br></div>
+                    <div class="timeline_image-wrapper margin-top"><img src="{{ images.21400e63.url }}" loading="eager" width="1000" height="Auto" alt="{{ images.21400e63.alt | trim | escape }}" sizes="(max-width: 479px) 24vw, (max-width: 767px) 33vw, 36vw" class="timeline__image"></div>
                   </div>
                 </div>
                 <div class="timeline__item">
@@ -622,14 +618,12 @@ margin: 0rem !important;
                     <div class="margin-bottom-medium">
                       <p class="text-colour-lightgrey">{{ texts.75d5240a }}<br></p>
                     </div>
-                    <div class="margin-bottom-xlarge">
-                      <div class="timeline_definition-wrapper">
-                        <p class="text-colour-white">{{ texts.704d4a4e }}<br></p>
-                        <div class="timeline_badge">
-                          <div>{{ texts.132ac }}</div>
-                        </div>
-                        <p class="text-colour-lightgrey">{{ texts.-4742b97 }}<br><span class="text-colour-white">{{ texts.-7454e250 }}</span></p>
+                    <div class="timeline_definition-wrapper">
+                      <p class="text-colour-white">{{ texts.704d4a4e }}<br></p>
+                      <div class="timeline_badge">
+                        <div>{{ texts.132ac }}</div>
                       </div>
+                      <p class="text-colour-lightgrey">{{ texts.-4742b97 }}<br><span class="text-colour-white">{{ texts.-7454e250 }}</span></p>
                     </div>
                   </div>
                 </div>
@@ -982,7 +976,7 @@ function handleMileStoneOpacity() {
         trigger: trigger,
         start: `top+=${topOffset}px center`, // `top+=${topOffset}px center`
         end: "center center",
-        markers: true, // debug
+        markers: false, // debug
         onEnter: () => {
           gsap.to(timelineLeft, {
             opacity: 1,

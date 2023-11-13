@@ -1730,7 +1730,7 @@ figcaption {
   overflow: hidden;
 }
 
-.timeline_image-wrapper.margin-bottom-medium.margin-top {
+.timeline_image-wrapper.margin-bottom-medium.margin-top, .timeline_image-wrapper.margin-top {
   margin-top: 32px;
 }
 
@@ -1802,8 +1802,6 @@ figcaption {
   z-index: 2;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  border-top: 1px solid #0f0;
-  border-bottom: 1px solid red;
   grid-template-rows: auto;
   grid-template-columns: 1fr 180px 1fr;
   grid-auto-columns: 1fr;
