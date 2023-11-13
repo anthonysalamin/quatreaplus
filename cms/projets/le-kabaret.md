@@ -1,10 +1,5 @@
 ---
-f_faetured: true
-f_highlight: false
-f_order: 2
-f_collaboration: Thomas Perruchoud | Pierre Amos | Fabio Sa | Jean Iwanowski | SDE
 title: Kabaret Edelweiss
-f_client: Société de Développement Edelweiss-Loisirs
 f_description-rich-text: >-
   La vénérable salle de théâtre du village de Chalais était à bout de souffle.
   Sa structure et son équipement n'étaient plus adéquat, et la société de
@@ -17,83 +12,63 @@ f_description-rich-text: >-
   portique d'entrée en acier Corten laisse supposer que des travaux ont été
   entrepris. Les espaces intérieurs sont eux travaillé pour assurer un confort
   et un accueil le plus agréable possible.
-f_date: 2016-2019
-f_location: Chalais, Valais
-f_project-number: '021'
-f_images:
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695804ddfe0a3ecd504ec1_DJI_0269-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/616958047e76a45eab5b4536_DJI_0220-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/616958071d7405b09e8936c3_DJI_0156-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695804e847ec32d3d9863b_DJI_0071.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695804e10708b22062a93f_DJI_0099-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695804b4249661008f3bbf_DJI_0151-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695805e847ec4b4ed9863c_6-cabaret_situationsplan-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695804e085ef2e05b735d0_7-Cabaret_EG-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/6169580300c57d1f52daa483_8-Cabaret_OG-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/616958038c059628101e789a_9-Cabaret_L%C3%A4ngsSchnitt-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695803ad884839c752e5fd_11-Cabaret_Querschnitt-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/61695803bc31d73f138e00ec_10-Cabaret_Fassade-optimized.jpg
-    alt: kabaret
-  - url: >-
-      https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/6169580440840ab5542d1d32_DJI_0243-optimized.jpg
-    alt: kabaret
 slug: le-kabaret
-updated-on: '2023-07-12T10:32:34.600Z'
-created-on: '2021-08-29T18:44:50.135Z'
-published-on: '2023-07-12T11:08:27.548Z'
-f_related-project:
+f_thumbnail-800-x-800-px-1-1-ratio-jpg-size-max-100-ko:
+  url: >-
+    https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db5fdc_613b2a54cfaac7eeca26c4ab_kabaret-thumb.jpeg
+  alt: null
+updated-on: '2023-11-13T04:45:31.309Z'
+created-on: '2023-10-12T05:03:15.571Z'
+published-on: '2023-11-13T04:46:21.595Z'
+f_selection: false
+f_images-du-projets:
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60f7_6-cabaret_situationsplan-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60f9_7-Cabaret_EG-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60e5_8-Cabaret_OG-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60e2_9-Cabaret_L%C3%A4ngsSchnitt-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60e4_10-Cabaret_Fassade-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60e3_11-Cabaret_Querschnitt-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/651d056c9981d3efa9ab3b8f/652781d30a0a3c0bd5005eaa_DJI_0269-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60e6_DJI_0220-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db60fb_DJI_0243-optimized.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/6551a02b07f9be76d6db5fbb/6551a02b07f9be76d6db611b_0541aacc-66b0-4d31-9dba-20a0110a2e62.jpg
+    alt: null
+  - url: >-
+      https://uploads-ssl.webflow.com/651d056c9981d3efa9ab3b8f/6531ff247fdd85bf656bbb96_12.jpg
+    alt: null
+f_order: 2
+f_related-projects-2:
   - cms/projets/les-combes.md
   - cms/projets/rechy.md
   - cms/projets/nax.md
-f_image-1:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/612bd7b1c64ea44dee81c647_7%20Cabaret_EG.png
-  alt: null
-f_image-2:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/612b981a6f6663e22237fb3a_DJI_0269.jpg
-  alt: null
-f_image-3:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/610aa4ec918aa521a11dbb41_9%20Cabaret_L%C3%A4ngsSchnitt.png
-  alt: null
-f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/613b2a54cfaac7eeca26c4ab_kabaret-thumb.jpg
-  alt: null
-f_image-4:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/612b97eb9bf9b636c15eb40e_DJI_0220.jpg
-  alt: null
-f_image-5:
-  url: >-
-    https://uploads-ssl.webflow.com/606064c4de5cb4541d3119de/612b9f73b42a1d664e97d251_DJI_0099.jpg
-  alt: null
+f_categories:
+  - cms/categories/renovation.md
+f_client: Société de Développement Edelweiss-Loisirs
+f_collaboration: Thomas Perruchoud, Pierre Amos, Fabio Sa, Jean Iwanowski, SDE
+f_date: 2016 à 2019
+f_location: Chalais, Valais
+f_live: false
 layout: '[projets].html'
 tags: projets
 ---
 
-Transformation d'une salle de spectacle à l'entrée du village de Chalais. Le projet fut mené et construit par les bénévoles de la région.
+**Kabaret Edelweiss** — La salle de spectacle de Chalais, vétuste, a été rénovée pour répondre aux normes actuelles tout en préservant son aspect iconique. Le projet fut mené et construit par les bénévoles de la région.
