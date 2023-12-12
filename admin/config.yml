@@ -903,9 +903,9 @@ collections:
             label: Text
             name: 49fb0f58
             widget: string
-          - hint: 'Original text: 2022 🚀, key: -562cf7bb'
+          - hint: 'Original text: 2022, key: 1774fe'
             label: Text
-            name: '-562cf7bb'
+            name: 1774fe
             widget: string
           - hint: >-
               Original text: Transformations des bureaux de la Place du Midi. Un
@@ -913,14 +913,6 @@ collections:
               s’installer avec quatre autres entreprises., key: 3ace1d1d
             label: Text
             name: 3ace1d1d
-            widget: text
-          - hint: >-
-              Original text: Cette expansion offre également une perspective
-              passionnante de renforcement des synergies et des échanges
-              créatifs entre notre équipe et les diverses entreprises installées
-              dans cet espace dynamique., key: 75d5240a
-            label: Text
-            name: 75d5240a
             widget: text
           - hint: 'Original text: Synergie, key: 704d4a4e'
             label: Text
@@ -935,12 +927,12 @@ collections:
             name: '-4742b97'
             widget: string
           - hint: >-
-              Original text: La synergie désigne l'action combinée ou
-              coopérative d'individus, d'éléments ou de groupes qui, lorsqu'ils
-              travaillent ensemble, produisent un résultat supérieur à la somme
-              de leurs efforts individuels., key: -7454e250
+              Original text: Cette expansion offre également une perspective
+              passionnante de renforcement des synergies et des échanges
+              créatifs entre notre équipe et les diverses entreprises installées
+              dans cet espace dynamique., key: 75d5240a
             label: Text
-            name: '-7454e250'
+            name: 75d5240a
             widget: text
           - hint: 'Original text: Aujourd''hui, key: -280f755d'
             label: Text

@@ -613,19 +613,16 @@ margin: 0rem !important;
                   <div class="timeline__right">
                     <div class="margin-bottom-medium">
                       <div class="timeline_milestone-badge">
-                        <div>{{ texts.-562cf7bb }}</div>
+                        <div>{{ texts.1774fe }}</div>
                       </div>
                       <div class="timeline_text">{{ texts.3ace1d1d }}<br></div>
-                    </div>
-                    <div class="margin-bottom-medium">
-                      <p class="text-colour-lightgrey">{{ texts.75d5240a }}<br></p>
                     </div>
                     <div class="timeline_definition-wrapper">
                       <p class="text-colour-white">{{ texts.704d4a4e }}<br></p>
                       <div class="timeline_badge">
                         <div>{{ texts.132ac }}</div>
                       </div>
-                      <p class="text-colour-lightgrey">{{ texts.-4742b97 }}<br><span class="text-colour-white">{{ texts.-7454e250 }}</span></p>
+                      <p class="text-colour-lightgrey">{{ texts.-4742b97 }}<br><span class="text-colour-white">{{ texts.75d5240a }}</span></p>
                     </div>
                   </div>
                 </div>
@@ -941,7 +938,7 @@ function handleMileStoneOpacity() {
   const startOpacityLeft = 0.25;
   const startOpacityRight = 0.15;
   const topOffset = 0;
-  const colors = {
+  const themes = {
     light: {
       full: "red",
       faded: "#green"
@@ -962,23 +959,23 @@ function handleMileStoneOpacity() {
     gsap.to(timelineRight, { opacity: startOpacityRight, duration: duration });
     if (timelineCircle.classList.contains("light")) {
       gsap.to(timelineCircle, {
-        backgroundColor: colors.light.faded,
+        backgroundColor: themes.light.faded,
         duration: duration
       });
     } else if (timelineCircle.classList.contains("dark")) {
       gsap.to(timelineCircle, {
-        backgroundColor: colors.dark.faded,
+        backgroundColor: themes.dark.faded,
         duration: duration
       });
     } else {
-      console.log("error with circle");
+      console.log("error");
     }
     const timeline = gsap.timeline({
       scrollTrigger: {
         trigger: trigger,
         start: `top+=${topOffset}px center`,
-        end: "bottom center",
-        markers: true, // debug
+        end: "bottom top",
+        markers: false, // debug
         onEnter: () => {
           gsap.to(timelineLeft, {
             opacity: 1,
@@ -992,16 +989,16 @@ function handleMileStoneOpacity() {
           });
           if (timelineCircle.classList.contains("light")) {
             gsap.to(timelineCircle, {
-              backgroundColor: colors.light.full,
+              backgroundColor: themes.light.full,
               duration: duration / 2
             });
           } else if (timelineCircle.classList.contains("dark")) {
             gsap.to(timelineCircle, {
-              backgroundColor: colors.dark.full,
+              backgroundColor: themes.dark.full,
               duration: duration / 2
             });
           } else {
-            console.log("error with circle");
+            console.log("error");
           }
         },
         onLeaveBack: () => {
@@ -1017,16 +1014,16 @@ function handleMileStoneOpacity() {
           });
           if (timelineCircle.classList.contains("light")) {
             gsap.to(timelineCircle, {
-              backgroundColor: colors.light.faded,
+              backgroundColor: themes.light.faded,
               duration: duration / 2
             });
           } else if (timelineCircle.classList.contains("dark")) {
             gsap.to(timelineCircle, {
-              backgroundColor: colors.dark.faded,
+              backgroundColor: themes.dark.faded,
               duration: duration / 2
             });
           } else {
-            console.log("error with circle");
+            console.log("error");
           }
         }
       } // end scrollTrigger

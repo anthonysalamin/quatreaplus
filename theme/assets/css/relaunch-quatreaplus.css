@@ -1730,7 +1730,7 @@ figcaption {
   overflow: hidden;
 }
 
-.timeline_image-wrapper.margin-bottom-medium.margin-top, .timeline_image-wrapper.margin-top {
+.timeline_image-wrapper.margin-top {
   margin-top: 32px;
 }
 
