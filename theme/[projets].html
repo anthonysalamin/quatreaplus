@@ -369,8 +369,8 @@ margin: 0rem !important;
           {%- unless setItems.length == 0 -%}<div role="list" class="gallery__cl w-dyn-items">
             {%- for setItem in setItems -%}<div role="listitem" class="gallery__cl-item w-dyn-item">
               <div class="gallery__wrap">
-                <a href="{{ links.23 }}" data-w-id="28c09879-6dd5-b1c9-8335-de4ec61afb3a" style="opacity:0;-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0); background-image: url('{{setItem}}');" class="gallery__lightbox-container w-inline-block w-dyn-bind-empty w-lightbox"><img alt="{{ setItem.alt }}" src="{{ setItem.url }}" class="image square">
-                  <script type="application/json" class="w-json">{"items":[],"group":"projet"}</script>
+                <a href="{{ links.23 }}" data-w-id="28c09879-6dd5-b1c9-8335-de4ec61afb3a" style="opacity:0;-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0); background-image: url('{{setItem.url}}');" class="gallery__lightbox-container w-inline-block w-lightbox"><img alt="{{ setItem.alt }}" src="{{ setItem.url }}" class="image square">
+                  <script type="application/json" class="w-json">{"items":[{"type":"image","url":"{{ setItem.url }}","caption":""}],"group":"projet"}</script>
                 </a>
               </div>
             </div>{%- endfor -%}
@@ -382,8 +382,8 @@ margin: 0rem !important;
           <div role="list" class="gallery__cl w-dyn-items">
             <div role="listitem" class="gallery__cl-item w-dyn-item">
               <div class="gallery__wrap">
-                <a href="{# links.23 #}" data-w-id="28c09879-6dd5-b1c9-8335-de4ec61afb3a" style="opacity:0;-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0); background-image: url('{#setItem#}');" class="gallery__lightbox-container w-inline-block w-dyn-bind-empty w-lightbox"><img alt="{# setItem.alt #}" src="{# setItem.url #}" class="image square">
-                  <script type="application/json" class="w-json">{"items":[],"group":"projet"}</script>
+                <a href="{# links.23 #}" data-w-id="28c09879-6dd5-b1c9-8335-de4ec61afb3a" style="opacity:0;-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0); background-image: url('{#setItem.url#}');" class="gallery__lightbox-container w-inline-block w-lightbox"><img alt="{# setItem.alt #}" src="{# setItem.url #}" class="image square">
+                  <script type="application/json" class="w-json">{"items":[{"type":"image","url":"{# setItem.url #}","caption":""}],"group":"projet"}</script>
                 </a>
               </div>
             </div>
